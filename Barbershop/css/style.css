@@ -976,17 +976,6 @@ input[type="radio"].visually-hidden {
 	opacity: 1;
 }
 
-.main-navigation-wrapper {
-	width: 100%;
-	background-color: #000000;
-	min-height: 70px;
-}
-
-.main-navigation-wrapper .container {
-	display: flex;
-	justify-content: space-between;
-}
-
 .features {
 	margin-bottom: 85px;
 }
